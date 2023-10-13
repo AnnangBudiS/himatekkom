@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .glassmorph {
+    @apply bg-gray-600 bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-30;
+  }
+}
