@@ -1,0 +1,21 @@
+{
+  "name": "himatekkom",
+  "version": "1.0.0",
+  "description": "himatekkom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "himatekkom",
+    "UTDI",
+    "Teknologi",
+    "Komputer"
+  ],
+  "author": "Keahlian Himatekkom",
+  "license": "ISC",
+  "devDependencies": {
+    "daisyui": "^3.9.2",
+    "tailwindcss": "^3.3.3"
+  }
+}
